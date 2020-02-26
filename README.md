@@ -52,20 +52,20 @@ Muokkaa peliä nyt sellaiseksi kuin haluat.
   
 Muokkaa nyt peliä sellaiseksi kuin haluat. 
   
-* Beginner - Create with code: https://learn.unity.com/course/create-with-code 
-* HUOM! Katso ohjevideot aina ensin alusta loppuun. Tee vasta sitten! 
-* Tee Jokainen Unit omaan GitHub-kansioonsa, esim. /Unity/Code/Unit_1/  
-* Unit 1 - Player Control 
-* Introduction 
-* Lesson 1.1 - Start your 3D Engines 
-* Käännä Unit 1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, repositorioon Unity, kansioon Code/Unit_1/. Unit 1:n tehtävien edetessä, siirrä aina pelin päivitetty, käännetty, versio kansioista ja tiedostoista edellisten päälle.  
-* Lesson 1.2 - Pedal to the Metal 
-* Lesson 1.3 - High Speed Chase 
-* Lesson 1.4 - Step into the Driver's Seat 
-* Challenge 1 - Plane Programming 
-* Lab 1 - Project Design Document 
+* Beginner - Create with code: https://learn.unity.com/course/create-with-code
+* HUOM! Katso ohjevideot aina ensin alusta loppuun. Tee vasta sitten!
+* Tee Jokainen Unit omaan GitHub-kansioonsa, esim. /Unity/Code/Unit_1/
+* Unit 1 - Player Control
+* Introduction
+* Lesson 1.1 - Start your 3D Engines
+* Käännä Unit 1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, repositorioon Unity, kansioon Code/Unit_1/. Unit 1:n tehtävien edetessä, siirrä aina pelin päivitetty, käännetty, versio kansioista ja tiedostoista edellisten päälle.
+* Lesson 1.2 - Pedal to the Metal
+* Lesson 1.3 - High Speed Chase
+* Lesson 1.4 - Step into the Driver's Seat
+* Challenge 1 - Plane Programming
+* Lab 1 - Project Design Document
 * Quiz 1
-* Jokainen Unit päättyy testiin, jossa testataan oppimistasi. Ota kuva testituloksesta ja siirrä se GitHub-kansioon: /Unity/Code/Unit_1/Quiz_1/quiz1.jpg 
+* Jokainen Unit päättyy testiin, jossa testataan oppimistasi. Ota kuva testituloksesta ja siirrä se GitHub-kansioon: /Unity/Code/Unit_1/Quiz_1/quiz1.jpg
   
 * Unit 2 - Basic Gameplay 
 * Introduction  
