@@ -64,9 +64,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_3
   * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_4
   * Challenge 1 - Plane Programming
-  * Lab 1 - Project Design Document
-  * Quiz 1
-  * Jokainen Unit päättyy testiin, jossa testataan oppimistasi. Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_1/Quiz_1/quiz1.jpg
+  * Lab 1 ja Quiz 1 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 1 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 1 on yksi osa näyttöäsi.
   
@@ -77,10 +75,8 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 2.3 - Random Animal Stampede. Käännä Unit 2.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_3 
   * Lesson 2.4 - Collision Decisions. Käännä Unit 2.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_4 
   * Challenge 2 - Play Fetch 
-  * Lab 2 - New Project with Primitives 
-  * Quiz 2 
-  * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_2/Quiz_2/quiz2.jpg 
-
+  * Lab 2 ja Quiz 2 voi jättää tekemättä 
+  
 **Projekti:** Tallenna Challenge 2 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 2 on yksi osa näyttöäsi.
 
 * Unit 3 - Sound and Effects 
@@ -90,9 +86,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 3.3 - Don't Just Stand There. Käännä Unit 3.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_3 
   * Lesson 3.4 - Particles and Sound Effects. Käännä Unit 3.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_4 
   * Challenge 3 - Balloons, Bombs, & Booleans 
-  * Lab 3 - Player Control
-  * Quiz 3
-  * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_3/Quiz_3/quiz3.jpg 
+  * Lab 3 ja Quiz 3 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 3 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 3 on yksi osa näyttöäsi.
   
@@ -103,9 +97,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 4.3 - PowerUp and CountDown. Käännä Unit 4.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_3 
   * Lesson 4.4 - For-Loops For Waves. Käännä Unit 4.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_4 
   * Challenge 4 - Soccer Scripting 8 
-  * Lab 4 - Basic Gameplay 
-  * Quiz 4
-  * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_4/Quiz_4/quiz4.jpg 
+  * Lab 4 ja Quiz 4 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 4 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 4 on yksi osa näyttöäsi.
   
@@ -116,9 +108,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 5.3 - Game Over. Käännä Unit 5.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_3  
   * Lesson 5.4 - What’s the Difficulty?. Käännä Unit 5.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_4 
   * Challenge 5 - Whack-a-Food 
-  * Lab 5 - Swap out your Assets 
-  * Quiz 5 
-  * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_5/Quiz_5/quiz5.jpg
+  * Lab 5 ja Quiz 5 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 5 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi.
   
