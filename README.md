@@ -59,14 +59,10 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   
 * Unit 1 - Player Control
   * Introduction
-  * Lesson 1.1 - Start your 3D Engines
-   * Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.1.
-  * Lesson 1.2 - Pedal to the Metal
-   * Käännä Unit 1.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.2.
-  * Lesson 1.3 - High Speed Chase
-   * Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.3.
-  * Lesson 1.4 - Step into the Driver's Seat
-   * Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.4.
+  * Lesson 1.1 - Start your 3D Engines. Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.1.
+  * Lesson 1.2 - Pedal to the Metal. Käännä Unit 1.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.2.
+  * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.3.
+  * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.4.
   * Challenge 1 - Plane Programming
   * Lab 1 - Project Design Document
   * Quiz 1
