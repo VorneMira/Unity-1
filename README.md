@@ -11,7 +11,9 @@ Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
   * Ensimmäisen pelipohjan nimi Etunimi:n autopeli (Esim. Miran autopeli) 
   * Tutorial: Beginner In-Editor Tutorials: https://learn.unity.com/tutorial/beginner-walkthroughs 
   
-Käännä autopelin koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Karting. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 15kpl. 
+Käännä autopelin koodi (WebGL) ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Karting. Pelisi pitäisi nyt näkyä myös osoitteessa kuten: https://connect.unity.com/p/miran-autopeli muutetulla auton värillä ja lisätyllä rakennuksella.
+
+Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 15kpl. 
   
 * Tutorial: Welcome to the Creative Mods: https://learn.unity.com/tutorial/welcome-to-the-creative-challenges 
   * Valitse ”Karting Microgame” ja tee ainoastaan jokaisen Modin perusosa. Älä siis tee Extra credit, Expand, Join and share, ym. -osia, koska niiden sisältämiin tehtäviin palataan muissa Modeissa/tehtävissä. 
