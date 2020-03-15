@@ -5,7 +5,7 @@
 Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
 
 ## Sisältö ja tehtävät
-* Beginner - Getting started with Unity (https://learn.unity.com) 
+* Beginner - Getting started with Unity (https://learn.unity.com/course/getting-started-with-unity) 
   * Tutorial: Create Your First Unity Project: https://learn.unity.com/tutorial/create-your-first-unity-project 
   * Asenna ensimmäinen pelipohja: Karting 
   * Ensimmäisen pelipohjan nimi Etunimi:n autopeli (Esim. Miran autopeli) 
