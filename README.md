@@ -11,7 +11,7 @@ Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
   * Ensimmäisen pelipohjan nimi Etunimi:n autopeli (Esim. Miran autopeli) 
   * Tutorial: Beginner In-Editor Tutorials: https://learn.unity.com/tutorial/beginner-walkthroughs 
   
-Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Voit siis halutessasi julkaista tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-autopeli). Kurssiamme varten projekti pitää kuitenkin tallentaa PC, Mac & Linux Standalone -muodossa ja siirtää kansiot ja tiedostot GitHubiin: Eduvantaa/Unity/Karting. Githubista pitäisi päästä nyt lataamaan pelisi muutetulla auton värillä ja vähintään yhdellä lisätyllä rakennuksella.
+Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Voit siis halutessasi julkaista tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-autopeli). Kurssiamme varten projekti pitää kuitenkin tallentaa PC, Mac & Linux Standalone -muodossa ja siirtää kansiot ja tiedostot GitHubiin: Eduvantaa/Unity/Karting. Githubista pitäisi päästä nyt lataamaan pelisi muutetulla auton värillä ja vähintään yhdellä lisätyllä rakennuksella. HUOM! Voit antaa pelillesi nimen Build Settings ikkunan Player Settings... -painikkeesta, Product Name -kentässä.
 
 Seuraavia Modeja tehtäessä, tallenna pelin päivitetty ja käännetty Standalone versio edellisen päälle. Modeja on yhteensä 15kpl. 
   
