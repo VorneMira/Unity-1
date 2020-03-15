@@ -2,16 +2,16 @@
 # Unity 
 
 ## Valmistaudu jaksoon
-Tee GitHubiin repositorio nimeltä Unity
+Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
 
 ## Sisältö ja tehtävät
 * Beginner - Getting started with Unity (https://learn.unity.com) 
   * Tutorial: Create Your First Unity Project: https://learn.unity.com/tutorial/create-your-first-unity-project 
   * Asenna ensimmäinen pelipohja: Karting 
-  * Ensimmäisen pelipohjan nimi Etunimi:n autopeli 
+  * Ensimmäisen pelipohjan nimi Etunimi:n autopeli (Esim. Miran autopeli) 
   * Tutorial: Beginner In-Editor Tutorials: https://learn.unity.com/tutorial/beginner-walkthroughs 
   
-Käännä autopelin koodi ja siirrä kansiot ja tiedostot GitHubiin, repositorioon Unity, kansioon Karting. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 15kpl.  
+Käännä autopelin koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Karting. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 15kpl. 
   
 * Tutorial: Welcome to the Creative Mods: https://learn.unity.com/tutorial/welcome-to-the-creative-challenges 
   * Valitse ”Karting Microgame” ja tee ainoastaan jokaisen Modin perusosa. Älä siis tee Extra credit, Expand, Join and share, ym. -osia, koska niiden sisältämiin tehtäviin palataan muissa Modeissa/tehtävissä. 
@@ -31,10 +31,10 @@ Käännä autopelin koodi ja siirrä kansiot ja tiedostot GitHubiin, repositorio
   * Karting Mod: Name the Game! 
   * Karting Mod: Billboard Face 
   
-Muokkaa peliä nyt sellaiseksi kuin haluat. 
+**Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Tallenna muokkaamasi peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Mitä enemmän kehitelty, sitä paremmat pisteet. 
   
 * Kertausta: palaa takaisin Welcome to the Creative Mods -sivulle ja tee ”Platformer Microgame” -modit. Huom: Uuden pelipohjan lataaminen: https://learn.unity.com/tutorial/welcome-to-the-creative-challenges 
-  * Käännä tasohyppelypelin koodi ja siirrä kansiot ja tiedostot GitHubiin, repositorioon Unity, kansioon Platform. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 12kpl. Muista merkitä jokainen tekemäsi Mod erikseen Workseediin. 
+  * Käännä tasohyppelypelin koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Platform. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 12kpl. Muista merkitä jokainen tekemäsi Mod erikseen Workseediin. 
   * Tee ainoastaan jokaisen Modin perusosa. Älä siis tee Extra credit, Expand, Join and share, ym. -osia, koska niiden sisältämiin tehtäviin palataan muissa Modeissa/tehtävissä. 
   * 2D Platformer Mod: Billboard Face 
   * 2D Platformer Mod: Name the Game 
