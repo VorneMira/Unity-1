@@ -59,72 +59,68 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   
 * Unit 1 - Player Control
   * Introduction
-  * Lesson 1.1 - Start your 3D Engines. Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.1.
-  * Lesson 1.2 - Pedal to the Metal. Käännä Unit 1.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.2.
-  * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.3.
-  * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1.4.
+  * Lesson 1.1 - Start your 3D Engines. Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_1
+  * Lesson 1.2 - Pedal to the Metal. Käännä Unit 1.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_2
+  * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_3
+  * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_4
   * Challenge 1 - Plane Programming
   * Lab 1 - Project Design Document
   * Quiz 1
   * Jokainen Unit päättyy testiin, jossa testataan oppimistasi. Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_1/Quiz_1/quiz1.jpg
   
-**Projekti:** Tallenna Challenge 1 peli myös Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Plane programming on yksi osa näyttöäsi.
+**Projekti:** Tallenna Challenge 1 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 1 on yksi osa näyttöäsi.
   
 * Unit 2 - Basic Gameplay 
   * Introduction  
-  * Lesson 2.1 - Player Positioning 
-  * Käännä Unit 2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/. Unit 2:n tehtävien edetessä, siirrä aina pelin päivitetty, käännetty, versio kansioista ja tiedostoista edellisten päälle.  
-  * Lesson 2.2 - Food Flight 
-  * Lesson 2.3 - Random Animal Stampede 
-  * Lesson 2.4 - Collision Decisions 
+  * Lesson 2.1 - Player Positioning. Käännä Unit 2.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_1   
+  * Lesson 2.2 - Food Flight. Käännä Unit 2.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_2
+  * Lesson 2.3 - Random Animal Stampede. Käännä Unit 2.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_3 
+  * Lesson 2.4 - Collision Decisions. Käännä Unit 2.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_4 
   * Challenge 2 - Play Fetch 
   * Lab 2 - New Project with Primitives 
   * Quiz 2 
   * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_2/Quiz_2/quiz2.jpg 
 
-**Projekti:** Tallenna Challenge 2 myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 2 on yksi osa näyttöäsi.
+**Projekti:** Tallenna Challenge 2 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 2 on yksi osa näyttöäsi.
 
 * Unit 3 - Sound and Effects 
   * Unit 3 - Introduction 
-  * Lesson 3.1 - Jump Force 
-  * Käännä Unit 3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/. Unit 3:n tehtävien edetessä, siirrä aina pelin päivitetty, käännetty, versio kansioista ja tiedostoista edellisten päälle.  
-  * Lesson 3.2 - Make the World Whiz By 
-  * Lesson 3.3 - Don't Just Stand There 
-  * Lesson 3.4 - Particles and Sound Effects 
+  * Lesson 3.1 - Jump Force. Käännä Unit 3.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_1  
+  * Lesson 3.2 - Make the World Whiz By. Käännä Unit 3.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_2 
+  * Lesson 3.3 - Don't Just Stand There. Käännä Unit 3.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_3 
+  * Lesson 3.4 - Particles and Sound Effects. Käännä Unit 3.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_4 
   * Challenge 3 - Balloons, Bombs, & Booleans 
   * Lab 3 - Player Control
   * Quiz 3
   * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_3/Quiz_3/quiz3.jpg 
   
-**Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Kun peli on mieleisesi ja esittelykelpoinen, tallenna peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Sound and Effects on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
+**Projekti:** Tallenna Challenge 3 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 3 on yksi osa näyttöäsi.
   
 * Unit 4 - Gameplay Mechanics 
-  * Introduction (5min.) 
-  * Lesson 4.1 - Watch Where You’re Going (1h) 
-  * Käännä Unit 4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/. Unit 4:n tehtävien edetessä, siirrä aina pelin päivitetty, käännetty, versio kansioista ja tiedostoista edellisten päälle.  
-  * Lesson 4.2 - Follow the Player (1h) 
-  * Lesson 4.3 - PowerUp and CountDown (1h) 
-  * Lesson 4.4 - For-Loops For Waves (50min.) 
-  * Challenge 4 - Soccer Scripting 8 (1h) 
-  * Lab 4 - Basic Gameplay (1h 30min.) 
-  * Quiz 4 (15min.) 
+  * Introduction 
+  * Lesson 4.1 - Watch Where You’re Going. Käännä Unit 4.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_1  
+  * Lesson 4.2 - Follow the Player. Käännä Unit 4.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_2 
+  * Lesson 4.3 - PowerUp and CountDown. Käännä Unit 4.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_3 
+  * Lesson 4.4 - For-Loops For Waves. Käännä Unit 4.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_4 
+  * Challenge 4 - Soccer Scripting 8 
+  * Lab 4 - Basic Gameplay 
+  * Quiz 4
   * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_4/Quiz_4/quiz4.jpg 
   
-**Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Kun peli on mieleisesi ja esittelykelpoinen, tallenna peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Gameplay Mechanics on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
+**Projekti:** Tallenna Challenge 4 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 4 on yksi osa näyttöäsi.
   
 * Unit 5 - User Interface 
-  * Introduction (5min.) 
-  * Lesson 5.1 - Clicky Mouse (1h) 
-  * Käännä Unit 5:n koodi ja siirrä kansiot ja tiedostot GitHubiin, repositorioon Unity, kansioon Eduvantaa/Unity/Code/Unit_5/. Unit 5:n tehtävien edetessä, siirrä aina pelin päivitetty, käännetty, versio kansioista ja tiedostoista edellisten päälle.  
-  * Lesson 5.2 - Keeping Score (1h 10min.) 
-  * Lesson 5.3 - Game Over (1h 10min.) 
-  * Lesson 5.4 - What’s the Difficulty? (1h) 
-  * Challenge 5 - Whack-a-Food (1h) 
-  * Lab 5 - Swap out your Assets (1h 30min.) 
-  * Quiz 5 (15min.) 
+  * Introduction
+  * Lesson 5.1 - Clicky Mouse. Käännä Unit 5.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_1  
+  * Lesson 5.2 - Keeping Score. Käännä Unit 5.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_2  
+  * Lesson 5.3 - Game Over. Käännä Unit 5.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_3  
+  * Lesson 5.4 - What’s the Difficulty?. Käännä Unit 5.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_4 
+  * Challenge 5 - Whack-a-Food 
+  * Lab 5 - Swap out your Assets 
+  * Quiz 5 
   * Ota kuva testituloksesta ja siirrä se GitHub-kansioon: Eduvantaa/Unity/Code/Unit_5/Quiz_5/quiz5.jpg
   
-**Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Kun peli on mieleisesi ja esittelykelpoinen, tallenna peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. User Interface on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
+**Projekti:** Tallenna Challenge 5 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi.
   
 * Intermediate – syventäviä projekteja edistyneemmille: 
   * Jokainen projekti siirretään GitHubiin, Eduvantaa/Unity, projektin nimiseen kansioon. 
