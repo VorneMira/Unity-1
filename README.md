@@ -31,7 +31,9 @@ Käännä autopelin koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Ed
   * Karting Mod: Name the Game! 
   * Karting Mod: Billboard Face 
   
-**Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Tallenna muokkaamasi peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Mitä enemmän kehitelty, sitä paremmat pisteet. 
+  **Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Kun peli on mieleisesi ja esittelykelpoinen, tallenna peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Carting game on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.  
+  
+Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio sisältää näyttötehtäviä.
   
 * Kertausta: palaa takaisin Welcome to the Creative Mods -sivulle ja tee ”Platformer Microgame” -modit. Huom: Uuden pelipohjan lataaminen: https://learn.unity.com/tutorial/welcome-to-the-creative-challenges 
   * Käännä tasohyppelypelin koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Platform. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 12kpl. Muista merkitä jokainen tekemäsi Mod erikseen Workseediin. 
