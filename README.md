@@ -122,7 +122,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * https://learn.unity.com/project/make-a-flag-move-with-shadergraph (premium) 
   * https://learn.unity.com/project/prototyping-game-systems-for-swords-and-shovels
   
-**Projekti:** Tallenna projektit projektin nimellä myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi projektia niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Projekti on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
+**Projekti:** Tallenna projektit projektin nimellä myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi projektia niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Projektit ovat yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
   
 * Advanced – Projekteja kehittyneille: 
   * Jokainen projekti siirretään GitHubiin, Unity-repositorioon, projektin nimiseen kansioon. 
@@ -130,4 +130,4 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * https://learn.unity.com/project/game-character-rigging-fundamentals (premium) 
   * https://learn.unity.com/project/game-character-animation-in-unity-and-maya (premium) 
 
-**Projekti:** Tallenna projektit projektin nimellä myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi projektia niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Projekti on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
+**Projekti:** Tallenna projektit projektin nimellä myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi projektia niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Projektit ovat yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
