@@ -33,7 +33,7 @@ Seuraavia Modeja tehtäessä, tallenna pelin päivitetty ja käännetty Standalo
   * Karting Mod: Name the Game! 
   * Karting Mod: Billboard Face 
   
-**Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Kun peli on mieleisesi ja esittelykelpoinen, tallenna peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Carting game on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.  
+**Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Kun peli on mieleisesi ja esittelykelpoinen, tallenna peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Karting game on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.  
   
 Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio sisältää näyttötehtäviä.
   
