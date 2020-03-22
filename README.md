@@ -14,7 +14,8 @@ Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
 Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Koska standalone versio on liian suuri GitHubiin siirrettäväksi, julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-autopeli): 
 * File -> Build Settings 
 * Window -> Share WebGL Game. 
-Linkki peliin julkaistaan GitHubissa: Eduvantaa/Unity/Karting. Pelisi tulisi toimia nyt muutetulla auton värillä ja vähintään yhdellä lisätyllä rakennuksella. HUOM! Voit antaa pelillesi nimen Build Settings ikkunan Player Settings... -painikkeesta, Product Name -kentässä.
+
+Linkki peliin julkaistaan GitHubissa: Eduvantaa/Unity/Karting/README.md. Pelisi tulisi toimia nyt muutetulla auton värillä ja vähintään yhdellä lisätyllä rakennuksella. HUOM! Voit antaa pelillesi nimen Build Settings ikkunan Player Settings... -painikkeesta, Product Name -kentässä.
 
 Seuraavia Modeja tehtäessä, julkaise pelin päivitetty ja käännetty versio. Modeja on yhteensä 15kpl. 
   
