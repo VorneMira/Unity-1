@@ -11,7 +11,7 @@ Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
   * Ensimmäisen pelipohjan nimi Etunimi:n autopeli (Esim. Miran autopeli) 
   * Tutorial: Beginner In-Editor Tutorials: https://learn.unity.com/tutorial/beginner-walkthroughs 
   
-Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Koska standalone versio on liian suuri GitHubiin siirrettäväksi, julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-autopeli): 
+Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Koska standalone versio on liian suuri GitHubiin siirrettäväksi, julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/mirakart): 
 * File -> Build Settings 
 * Window -> Share WebGL Game. 
 
