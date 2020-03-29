@@ -15,7 +15,9 @@ Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Koska standalone 
 * File -> Build Settings 
 * Window -> Share WebGL Game. 
 
-Linkki peliin julkaistaan GitHubissa: Eduvantaa/Unity/Karting/README.md. Pelisi tulisi toimia nyt muutetulla auton värillä ja vähintään yhdellä lisätyllä rakennuksella. HUOM! Voit antaa pelillesi nimen Build Settings ikkunan Player Settings... -painikkeesta, Product Name -kentässä.
+Linkki peliin julkaistaan GitHubissa: Eduvantaa/Unity/Karting/README.md. Pelisi tulisi toimia nyt muutetulla auton värillä ja vähintään yhdellä lisätyllä rakennuksella. Voit antaa pelillesi nimen Build Settings ikkunan Player Settings... -painikkeesta, Product Name -kentässä.
+
+HUOM! KÄÄNNETTYJEN PELIEN LINKKIEN LISÄKSI LAITA GITHUBIIN MYÖS KAIKKI KOODIT, JOTTA VOIMME PALATA NIIHIN MYÖHEMMIN MYÖS KOULUN KONEILLA!!
 
 Seuraavia Modeja tehtäessä, julkaise pelin päivitetty ja käännetty versio. Modeja on yhteensä 15kpl. 
   
