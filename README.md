@@ -42,7 +42,7 @@ Seuraavia Modeja tehtäessä, julkaise pelin päivitetty ja käännetty versio. 
 Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio sisältää näyttötehtäviä.
   
 * Kertausta: palaa takaisin Welcome to the Creative Mods -sivulle ja tee ”Platformer Microgame” -modit. Huom: Uuden pelipohjan lataaminen: https://learn.unity.com/tutorial/welcome-to-the-creative-challenges 
-  * Käännä tasohyppelypelin koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Platform. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 12kpl.  
+  * Linkki peliin julkaistaan GitHubissa: Eduvantaa/Unity/Platformer/README.md. Modeja tehtäessä, tallenna pelin päivitetty, käännetty, versio edellisen päälle. Modeja on yhteensä 12kpl.  
   * Tee ainoastaan jokaisen Modin perusosa. Älä siis tee Extra credit, Expand, Join and share, ym. -osia, koska niiden sisältämiin tehtäviin palataan muissa Modeissa/tehtävissä. 
   * 2D Platformer Mod: Billboard Face 
   * 2D Platformer Mod: Name the Game 
