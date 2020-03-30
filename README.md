@@ -67,10 +67,10 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   
 * Unit 1 - Player Control
   * Introduction
-  * Lesson 1.1 - Start your 3D Engines. Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_1
-  * Lesson 1.2 - Pedal to the Metal. Käännä Unit 1.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_2
-  * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_3
-  * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/Lesson1_4
+  * Lesson 1.1 - Start your 3D Engines. Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
+  * Lesson 1.2 - Pedal to the Metal. Käännä Unit 1.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
+  * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
+  * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
   * Challenge 1 - Plane Programming
   * Lab 1 ja Quiz 1 voi jättää tekemättä
   
@@ -78,10 +78,10 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   
 * Unit 2 - Basic Gameplay 
   * Introduction  
-  * Lesson 2.1 - Player Positioning. Käännä Unit 2.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_1   
-  * Lesson 2.2 - Food Flight. Käännä Unit 2.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_2
-  * Lesson 2.3 - Random Animal Stampede. Käännä Unit 2.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_3 
-  * Lesson 2.4 - Collision Decisions. Käännä Unit 2.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/Lesson2_4 
+  * Lesson 2.1 - Player Positioning. Käännä Unit 2.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/  
+  * Lesson 2.2 - Food Flight. Käännä Unit 2.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/
+  * Lesson 2.3 - Random Animal Stampede. Käännä Unit 2.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/
+  * Lesson 2.4 - Collision Decisions. Käännä Unit 2.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/ 
   * Challenge 2 - Play Fetch 
   * Lab 2 ja Quiz 2 voi jättää tekemättä 
   
@@ -89,10 +89,10 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
 
 * Unit 3 - Sound and Effects 
   * Unit 3 - Introduction 
-  * Lesson 3.1 - Jump Force. Käännä Unit 3.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_1  
-  * Lesson 3.2 - Make the World Whiz By. Käännä Unit 3.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_2 
-  * Lesson 3.3 - Don't Just Stand There. Käännä Unit 3.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_3 
-  * Lesson 3.4 - Particles and Sound Effects. Käännä Unit 3.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/Lesson3_4 
+  * Lesson 3.1 - Jump Force. Käännä Unit 3.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/
+  * Lesson 3.2 - Make the World Whiz By. Käännä Unit 3.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/
+  * Lesson 3.3 - Don't Just Stand There. Käännä Unit 3.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/ 
+  * Lesson 3.4 - Particles and Sound Effects. Käännä Unit 3.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/ 
   * Challenge 3 - Balloons, Bombs, & Booleans 
   * Lab 3 ja Quiz 3 voi jättää tekemättä
   
@@ -100,10 +100,10 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   
 * Unit 4 - Gameplay Mechanics 
   * Introduction 
-  * Lesson 4.1 - Watch Where You’re Going. Käännä Unit 4.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_1  
-  * Lesson 4.2 - Follow the Player. Käännä Unit 4.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_2 
-  * Lesson 4.3 - PowerUp and CountDown. Käännä Unit 4.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_3 
-  * Lesson 4.4 - For-Loops For Waves. Käännä Unit 4.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/Lesson4_4 
+  * Lesson 4.1 - Watch Where You’re Going. Käännä Unit 4.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/  
+  * Lesson 4.2 - Follow the Player. Käännä Unit 4.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
+  * Lesson 4.3 - PowerUp and CountDown. Käännä Unit 4.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
+  * Lesson 4.4 - For-Loops For Waves. Käännä Unit 4.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
   * Challenge 4 - Soccer Scripting 8 
   * Lab 4 ja Quiz 4 voi jättää tekemättä
   
@@ -111,10 +111,10 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   
 * Unit 5 - User Interface 
   * Introduction
-  * Lesson 5.1 - Clicky Mouse. Käännä Unit 5.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_1  
-  * Lesson 5.2 - Keeping Score. Käännä Unit 5.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_2  
-  * Lesson 5.3 - Game Over. Käännä Unit 5.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_3  
-  * Lesson 5.4 - What’s the Difficulty?. Käännä Unit 5.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/Lesson5_4 
+  * Lesson 5.1 - Clicky Mouse. Käännä Unit 5.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/ 
+  * Lesson 5.2 - Keeping Score. Käännä Unit 5.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
+  * Lesson 5.3 - Game Over. Käännä Unit 5.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
+  * Lesson 5.4 - What’s the Difficulty?. Käännä Unit 5.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
   * Challenge 5 - Whack-a-Food 
   * Lab 5 ja Quiz 5 voi jättää tekemättä
   
