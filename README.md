@@ -11,7 +11,7 @@ Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
   * Ensimmäisen pelipohjan nimi Etunimi:n autopeli (Esim. Miran autopeli) 
   * Tutorial: Beginner In-Editor Tutorials: https://learn.unity.com/tutorial/beginner-walkthroughs 
   
-Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Koska standalone versio on liian suuri GitHubiin siirrettäväksi, julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/mirakart): 
+Ohjeiden mukaan autopelin koodi käännetään WebGL-muodossa. Julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/mirakart): 
 * File -> Build Settings 
 * Window -> Share WebGL Game. 
 
@@ -63,15 +63,17 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   
 * Beginner - Create with code: https://learn.unity.com/course/create-with-code
   * HUOM! Katso ohjevideot aina ensin alusta loppuun. Tee vasta sitten!
-  * Tee Jokainen Unit omaan GitHub-kansioonsa, esim. Eduvantaa/Unity/Code/Unit_1/
+  * Tee Jokainen Unit omaan GitHub-kansioonsa, esim. Eduvantaa/Unity/Code/Unit_1/ 
   
 * Unit 1 - Player Control
   * Introduction
-  * Lesson 1.1 - Start your 3D Engines. Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
+  * Lesson 1.1 - Start your 3D Engines. Käännä Unit 1.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/ 
   * Lesson 1.2 - Pedal to the Metal. Käännä Unit 1.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
   * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
   * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
-  * Challenge 1 - Plane Programming
+  * Julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-prototype-1) ja kirjoita linkki kansioon Readme.md tiedostoon.
+  * Challenge 1 - Plane Programming 
+  * Julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-challenge-1) ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 1 ja Quiz 1 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 1 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 1 on yksi osa näyttöäsi.
@@ -82,7 +84,9 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 2.2 - Food Flight. Käännä Unit 2.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/
   * Lesson 2.3 - Random Animal Stampede. Käännä Unit 2.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/
   * Lesson 2.4 - Collision Decisions. Käännä Unit 2.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/ 
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Challenge 2 - Play Fetch 
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 2 ja Quiz 2 voi jättää tekemättä 
   
 **Projekti:** Tallenna Challenge 2 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 2 on yksi osa näyttöäsi.
@@ -92,8 +96,10 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 3.1 - Jump Force. Käännä Unit 3.1:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/
   * Lesson 3.2 - Make the World Whiz By. Käännä Unit 3.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/
   * Lesson 3.3 - Don't Just Stand There. Käännä Unit 3.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/ 
-  * Lesson 3.4 - Particles and Sound Effects. Käännä Unit 3.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/ 
+  * Lesson 3.4 - Particles and Sound Effects. Käännä Unit 3.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Challenge 3 - Balloons, Bombs, & Booleans 
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 3 ja Quiz 3 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 3 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 3 on yksi osa näyttöäsi.
@@ -104,7 +110,9 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 4.2 - Follow the Player. Käännä Unit 4.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
   * Lesson 4.3 - PowerUp and CountDown. Käännä Unit 4.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
   * Lesson 4.4 - For-Loops For Waves. Käännä Unit 4.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Challenge 4 - Soccer Scripting 8 
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 4 ja Quiz 4 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 4 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Challenge 4 on yksi osa näyttöäsi.
@@ -115,7 +123,9 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 5.2 - Keeping Score. Käännä Unit 5.2:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
   * Lesson 5.3 - Game Over. Käännä Unit 5.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
   * Lesson 5.4 - What’s the Difficulty?. Käännä Unit 5.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Challenge 5 - Whack-a-Food 
+  * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 5 ja Quiz 5 voi jättää tekemättä
   
 **Projekti:** Tallenna Challenge 5 Portfolioosi. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi.
@@ -128,6 +138,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * https://learn.unity.com/project/intermediate-gameplay-scripting 
   * https://learn.unity.com/project/creating-believable-visuals 
   * https://learn.unity.com/project/prototyping-game-systems-for-swords-and-shovels
+  * Julkaise tuotoksesi nettipeleinä ja kirjoita linkit kansioon Readme.md tiedostoon.
   
 **Projekti:** Tallenna projektit projektin nimellä myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi projektia niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Projektit ovat yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.
   
