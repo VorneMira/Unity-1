@@ -72,7 +72,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 1.3 - High Speed Chase. Käännä Unit 1.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
   * Lesson 1.4 - Step into the Driver's Seat. Käännä Unit 1.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_1/
   * Julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-prototype-1) ja kirjoita linkki kansioon Readme.md tiedostoon.
-  * Challenge 1 - Plane Programming 
+  * Challenge 1 - Plane Programming - Tee Challengea varten uusi projekti.
   * Julkaise tuotoksesi nettipelinä (esim. https://connect.unity.com/p/miran-challenge-1) ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 1 ja Quiz 1 voi jättää tekemättä
   
@@ -85,7 +85,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 2.3 - Random Animal Stampede. Käännä Unit 2.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/
   * Lesson 2.4 - Collision Decisions. Käännä Unit 2.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_2/ 
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
-  * Challenge 2 - Play Fetch 
+  * Challenge 2 - Play Fetch - Tee Challengea varten uusi projekti.
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 2 ja Quiz 2 voi jättää tekemättä 
   
@@ -98,7 +98,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 3.3 - Don't Just Stand There. Käännä Unit 3.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/ 
   * Lesson 3.4 - Particles and Sound Effects. Käännä Unit 3.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/UnityCode/Unit_3/
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
-  * Challenge 3 - Balloons, Bombs, & Booleans 
+  * Challenge 3 - Balloons, Bombs, & Booleans - Tee Challengea varten uusi projekti. 
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 3 ja Quiz 3 voi jättää tekemättä
   
@@ -111,7 +111,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 4.3 - PowerUp and CountDown. Käännä Unit 4.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
   * Lesson 4.4 - For-Loops For Waves. Käännä Unit 4.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_4/ 
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
-  * Challenge 4 - Soccer Scripting 8 
+  * Challenge 4 - Soccer Scripting 8 - Tee Challengea varten uusi projekti.
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 4 ja Quiz 4 voi jättää tekemättä
   
@@ -124,7 +124,7 @@ Eduvantaa repositorio sisältää siis osaamisen hankintatehtäviä, Portfolio s
   * Lesson 5.3 - Game Over. Käännä Unit 5.3:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
   * Lesson 5.4 - What’s the Difficulty?. Käännä Unit 5.4:n koodi ja siirrä kansiot ja tiedostot GitHubiin, kansioon Eduvantaa/Unity/Code/Unit_5/
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
-  * Challenge 5 - Whack-a-Food 
+  * Challenge 5 - Whack-a-Food - Tee Challengea varten uusi projekti.
   * Julkaise tuotoksesi nettipelinä ja kirjoita linkki kansioon Readme.md tiedostoon.
   * Lab 5 ja Quiz 5 voi jättää tekemättä
   
