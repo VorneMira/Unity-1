@@ -2,7 +2,7 @@
 # Unity 
 
 ## Valmistaudu jaksoon
-Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity
+Tee GitHubiin Eduvantaa repositorioon kansio nimeltä Unity.
 
 ## Sisältö ja tehtävät
 * Beginner - Getting started with Unity (https://learn.unity.com/course/getting-started-with-unity) 
