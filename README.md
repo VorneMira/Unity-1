@@ -23,27 +23,25 @@ Seuraavia Modeja tehtäessä, julkaise pelin päivitetty ja käännetty versio. 
   
 * Tutorial: Welcome to the Creative Mods: https://learn.unity.com/tutorial/welcome-to-the-creative-challenges 
   * Valitse ”Karting Microgame” ja tee ainoastaan jokaisen Modin perusosa. Älä siis tee Extra credit, Expand, Join and share, ym. -osia, koska niiden sisältämiin tehtäviin palataan muissa Modeissa/tehtävissä. 
-  * UUDET MODIT KÄYTTÖÖN 20.4. alkaen:
-   * Karting Mod: Sweet ride! Unlock upgraded smart karts
-   * Karting Mod: Beat the clock Game Mode
-   * Karting Mod: Crash Course Game Mode
-   * Karting Mod: Lap Course Game Mode
-  * VANHAT MODIT, JOS OLET ASENTANUT PELIN ENNEN HUHTIKUUTA 2020:
-   * Karting Mod: Decorate Your World 
-   * Karting Mod: Custom Triggers 
-   * Karting Mod: Add a Hat 
-   * Karting Mod: Bouncy Sparkly! 
-   * Karting Mod: Add Sparkling Particle Effects 
-   * Karting Mod: Build Your Own Track
-   * Karting Mod: Bumpy Road
-   * Karting Mod: Add Speed Pads 
-   * Karting Mod: Share Your Game on the Web 
-   * Karting Mod: A Splash of Color
-   * Karting Mod: Light Trail Racer 
-   * Karting Mod: Animate Your World 
-   * Karting Mod: Sepia Back in Time 
-   * Karting Mod: Name the Game! 
-   * Karting Mod: Billboard Face 
+  
+
+UUDET MODIT KÄYTTÖÖN 20.4. alkaen: | VANHAT MODIT, JOS OLET ASENTANUT PELIN ENNEN HUHTIKUUTA 2020: 
+--- | --- 
+Karting Mod: Sweet ride! Unlock upgraded smart karts | Karting Mod: Decorate Your World
+Karting Mod: Beat the clock Game Mode | Karting Mod: Custom Triggers
+Karting Mod: Crash Course Game Mode | Karting Mod: Add a Hat
+Karting Mod: Lap Course Game Mode | Karting Mod: Bouncy Sparkly!
+- | Karting Mod: Add Sparkling Particle Effects 
+- | Karting Mod: Build Your Own Track
+- | Karting Mod: Bumpy Road
+- | Karting Mod: Add Speed Pads 
+- | Karting Mod: Share Your Game on the Web 
+- | Karting Mod: A Splash of Color
+- | Karting Mod: Light Trail Racer 
+- | Karting Mod: Animate Your World 
+- | Karting Mod: Sepia Back in Time 
+- | Karting Mod: Name the Game! 
+- | Karting Mod: Billboard Face 
   
 **Projekti:** Muokkaa peliä sellaiseksi kuin haluat. Kun peli on mieleisesi ja esittelykelpoinen, tallenna peli myös Portfolioosi. Voit myöhemmin jatkaa portfolioon tekemääsi peliä niin paljon kuin haluat. Lopullinen portfolio, johon sisältyy projekteja sekä kouluopetuksesta että työharjoittelusta, muodostaa lopullisen näyttöarvosanasi. Karting game on yksi osa näyttöäsi. Mitä enemmän sitä on kehitelty, sitä parempi näyttöarvosana.  
   
