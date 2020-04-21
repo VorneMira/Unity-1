@@ -19,7 +19,7 @@ Linkki peliin julkaistaan GitHubissa: Eduvantaa/Unity/Karting/README.md. Pelisi 
 
 HUOM! KÄÄNNETTYJEN PELIEN LINKKIEN LISÄKSI LAITA GITHUBIIN MYÖS KAIKKI BUILD-KOODIT, JOTTA VOIMME PALATA NIIHIN MYÖHEMMIN MYÖS KOULUN KONEILLA!!
 
-Seuraavia Modeja tehtäessä, julkaise pelin päivitetty ja käännetty versio. Modeja on yhteensä 15kpl. 
+Seuraavia Modeja tehtäessä, julkaise pelin päivitetty ja käännetty versio. 
   
 * Tutorial: Welcome to the Creative Mods: https://learn.unity.com/tutorial/welcome-to-the-creative-challenges 
   * Valitse ”Karting Microgame” ja tee ainoastaan jokaisen Modin perusosa. Älä siis tee Extra credit, Expand, Join and share, ym. -osia, koska niiden sisältämiin tehtäviin palataan muissa Modeissa/tehtävissä. 
