@@ -28,8 +28,8 @@ Seuraavia Modeja tehtäessä, julkaise pelin päivitetty ja käännetty versio.
 UUDET MODIT KÄYTTÖÖN 20.4. alkaen: | VANHAT MODIT, ENNEN HUHTIKUUTA 2020: 
 --- | --- 
 Karting Mod: Sweet ride! Unlock upgraded smart karts | Karting Mod: Decorate Your World
-Karting Mod: Beat the clock Game Mode | Karting Mod: Custom Triggers
-Karting Mod: Crash Course Game Mode | Karting Mod: Add a Hat
+Karting Mod: Beat the clock Game Mode (käännä tästä oma peli: Karting_time) | Karting Mod: Custom Triggers
+Karting Mod: Crash Course Game Mode (käännä tästä oma peli:Karting_crash) | Karting Mod: Add a Hat
 Karting Mod: Lap Course Game Mode | Karting Mod: Bouncy Sparkly!
 .. | Karting Mod: Add Sparkling Particle Effects 
 .. | Karting Mod: Build Your Own Track
